@@ -29,7 +29,7 @@
 :-: |:--------:|:-----------------:|:-----------------------:| :-  | :-: 
 1 |   2025   |       Partial fine-tuning        |           TIP           | Dual-Level Modality De-Biasing for RGB-T Tracking | [Paper](https://doi.org/10.1109/TIP.2025.3562077) / [Code]
 2 |   2025   |        Full fine-tuning        |           TIM           | Dynamic Enhancement Network With Probability Switch for RGB-T Tracking | [Paper](https://doi.org/10.1109/TIM.2025.3633376) / [Code]
-3 |   2025   |        Full fine-tuning        |          TPAIM          | RGB-T Tracking With Template-Bridged Search Interaction and Target-Preserved Template Updating | [Paper](https://doi.org/10.1109/TPAMI.2024.3475472) / [Code]
+3 |   2025   |        Full fine-tuning        |          TCSVT          | RGB-T Tracking With Template-Bridged Search Interaction and Target-Preserved Template Updating | [Paper](https://doi.org/10.1109/TPAMI.2024.3475472) / [Code]
 4 |   2025   |        Full fine-tuning        |          TCSVT          | MambaVT: Spatio-Temporal Contextual Modeling for Robust RGB-T Tracking | [Paper](https://doi.org/10.1109/TCSVT.2025.3557992) / [Code](https://github.com/laisimiao/MambaVT)
 5 |   2025   |        Full fine-tuning        |          IoTJ           | TVTracker: Target-Adaptive Text-Guided Visual Fusion for Multimodal RGB-T Tracking | [Paper](https://doi.org/10.1109/JIOT.2025.3557564) / [Code]
 6 |   2025   |        Full fine-tuning        |           TIM           | Progressive Transformer With Multimodality Adaptation for RGB-T Tracking | [Paper](https://doi.org/10.1109/TIM.2025.3575970) / [Code]
