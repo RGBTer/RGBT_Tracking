@@ -19,7 +19,6 @@
 13 | 2026 |       Full fine-tuning        |       CVPR       | RAGTrack: Language-aware RGBT Tracking with Retrieval-Augmented Generation | [Paper](https://doi.org/10.48550/arXiv.2603.03617) / [Code](https://github.com/IdolLab/RAGTrack)
 14 | 2026 |        Full fine-tuning        |       AAAI       | CADTrack: Learning Contextual Aggregation with Deformable Alignment for Robust RGBT Tracking | [Paper](https://doi.org/10.1609/aaai.v40i8.37535) / [Code](https://github.com/IdolLab/CADTrack)
 15 | 2026 |        Full fine-tuning        |       AAAI       | Unaligned UAV RGBT Tracking: A Largescale Benchmark and a Novel Approach | [Paper](https://doi.org/10.1609/aaai.v40i13.38079) / [Code](https://github.com/NOP1224/Unaligned_RGBT_Tracking)
-16 | 2026 |       Partial fine-tuning        |      ACMMM       | Infrared Object Tracking via Complementary Dual-domain Interaction with Target-guided Frequency Transformation | [Paper](https://doi.org/10.1145/3787979) / [Code]
 
 
 
