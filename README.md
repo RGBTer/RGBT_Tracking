@@ -68,7 +68,6 @@
 1 |   2023   |        Full fine-tuning        |       TIV        | Dynamic Fusion Network for RGBT Tracking | [Paper](https://ieeexplore.ieee.org/document/9997229) / [Code](https://github.com/PengJingchao/DFNet)
 2 |   2023   |        Full fine-tuning        |       CVPR       | Efficient RGB-T Tracking via Cross-Modality Distillation | [Paper](https://ieeexplore.ieee.org/document/10205202) / [Code]
 3 |   2023   |        Full fine-tuning        |      ACMMM       | Learning cross-modal interaction for RGB-T tracking | [Paper](https://link.springer.com/article/10.1007/s11432-021-3518-y) / [Code]
-4 |   2023   |        Full fine-tuning        |        CVPR        | Bridging Search Region Interaction with Template for RGB-T Tracking | [Paper](https://ieeexplore.ieee.org/document/10203113) / [Code]
 
 
 
