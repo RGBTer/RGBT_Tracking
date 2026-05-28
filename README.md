@@ -19,6 +19,7 @@
 13 | 2026 |       Full fine-tuning        |       CVPR       | RAGTrack: Language-aware RGBT Tracking with Retrieval-Augmented Generation | [Paper](https://doi.org/10.48550/arXiv.2603.03617) / [Code](https://github.com/IdolLab/RAGTrack)
 14 | 2026 |        Full fine-tuning        |       AAAI       | CADTrack: Learning Contextual Aggregation with Deformable Alignment for Robust RGBT Tracking | [Paper](https://doi.org/10.1609/aaai.v40i8.37535) / [Code](https://github.com/IdolLab/CADTrack)
 15 | 2026 |        Full fine-tuning        |       AAAI       | Unaligned UAV RGBT Tracking: A Largescale Benchmark and a Novel Approach | [Paper](https://doi.org/10.1609/aaai.v40i13.38079) / [Code](https://github.com/NOP1224/Unaligned_RGBT_Tracking)
+16 |   2026   |       Partial fine-tuning        |      TCSVT      | PromptTrack: Streaming Spatial-Temporal Prompt Learning for RGB-T Tracking | [Paper](https://ieeexplore.ieee.org/abstract/document/11397188) / [Code]
 
 
 
@@ -57,7 +58,7 @@
 3 |   2024   |        Full fine-tuning        |      TCSVT      | Cross-Modal Object Tracking via Modality-Aware Fusion Network and a Large-Scale Dataset | [Paper](https://ieeexplore.ieee.org/document/10545535) / [Code](https://github.com/mmic-lcl/Datasets-and-benchmark-code)
 4 |   2024   |        Full fine-tuning        |      CVPR       | Single-Model and Any-Modality for Video Object Tracking | [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wu_Single-Model_and_Any-Modality_for_Video_Object_Tracking_CVPR_2024_paper.html) / [Code](https://github.com/Zongwei97/UnTrack)
 5 |   2024   |        Full fine-tuning        |      AAAI       | Exploring Multi-Modal Spatial-Temporal Contexts for High-Performance RGB-T Tracking | [Paper](https://ieeexplore.ieee.org/document/10605602) / [Code]
-6 |   2024   |       Partial fine-tuning        |      ACMMM      | PromptTrack: Streaming Spatial-Temporal Prompt Learning for RGB-T Tracking | [Paper](https://ieeexplore.ieee.org/abstract/document/11397188) / [Code]
+
 
 
 
