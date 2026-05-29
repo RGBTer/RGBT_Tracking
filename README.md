@@ -13,13 +13,14 @@
 7 | 2026 |        Full fine-tuning        |       TIP        | A Multi-Level Self-Distillation-Based Unified Tracker for Efficient RGB-T Tracking | [Paper](https://doi.org/10.1109/TIP.2026.3666737) / [Code]
 8 | 2026 |        Full fine-tuning        |       KBS        | Three-stage progressive modality reweighting and interaction framework for robust RGB-T tracking | [Paper](https://doi.org/10.1016/j.knosys.2026.115453) / [Code]
 9 | 2026 |        Full fine-tuning        |  Neurocomputing  | CAMT: A novel symmetric cross-modal adaptive modulation framework for RGB-T tracking | [Paper](https://doi.org/10.1016/j.neucom.2025.132602) / [Code]
-10 | 2026 |        Full fine-tuning        |      TCSVT       | FMTrack: Frequency-Aware Interaction and Multi-Expert Fusion for RGB-T Tracking | [Paper](https://doi.org/10.1109/TCSVT.2025.3601598) / [Code](https://github.com/xyl-507/FMTrack)
+10 |   2026   |       Partial fine-tuning        |      TCSVT      | PromptTrack: Streaming Spatial-Temporal Prompt Learning for RGB-T Tracking | [Paper](https://ieeexplore.ieee.org/abstract/document/11397188) / [Code]
+(https://github.com/xyl-507/FMTrack)
 11 | 2026 |        Full fine-tuning        |      TCSVT       | Feature Fusion and Enhancement for Lightweight Visible-Thermal Infrared Tracking via Multiple Adapters | [Paper](https://doi.org/10.1109/TCSVT.2025.3595632) / [Code](https://github.com/hu-xue/MFJA)
 12 | 2026 |       Partial fine-tuning        |       AAAI       | Group Orthogonal Low-Rank Adaptation for RGB-T Tracking | [Paper](https://doi.org/10.1609/aaai.v40i11.37843) / [Code](https://github.com/MelanTech/GOLA)
 13 | 2026 |       Full fine-tuning        |       CVPR       | RAGTrack: Language-aware RGBT Tracking with Retrieval-Augmented Generation | [Paper](https://doi.org/10.48550/arXiv.2603.03617) / [Code](https://github.com/IdolLab/RAGTrack)
 14 | 2026 |        Full fine-tuning        |       AAAI       | CADTrack: Learning Contextual Aggregation with Deformable Alignment for Robust RGBT Tracking | [Paper](https://doi.org/10.1609/aaai.v40i8.37535) / [Code](https://github.com/IdolLab/CADTrack)
 15 | 2026 |        Full fine-tuning        |       AAAI       | Unaligned UAV RGBT Tracking: A Largescale Benchmark and a Novel Approach | [Paper](https://doi.org/10.1609/aaai.v40i13.38079) / [Code](https://github.com/NOP1224/Unaligned_RGBT_Tracking)
-16 |   2026   |       Partial fine-tuning        |      TCSVT      | PromptTrack: Streaming Spatial-Temporal Prompt Learning for RGB-T Tracking | [Paper](https://ieeexplore.ieee.org/abstract/document/11397188) / [Code]
+
 
 
 
@@ -46,7 +47,7 @@
 17 |   2025   |        Full fine-tuning        |          AAAI           | RGBT Tracking via All-layer Multimodal Interactions with Progressive Fusion Mamba | [Paper](https://doi.org/10.1609/aaai.v39i6.32618) / [Code]
 18 |   2025   |       Partial fine-tuning        |          ICCV           | What You Have is What You Track: Adaptive and Robust Multimodal Tracking | [Paper](https://iccv.thecvf.com/virtual/2025/poster/2163) / [Code](https://github.com/supertyd/FlexTrack)
 19 |   2025   |       Partial fine-tuning        |          ACMMM          | Exploiting Multimodal Prompt Learning and Distillation for RGB-T Tracking | [Paper](https://doi.org/10.1145/3731715.3733332) / [Code]
-
+20 | 2025 |        Full fine-tuning        |      TCSVT       | FMTrack: Frequency-Aware Interaction and Multi-Expert Fusion for RGB-T Tracking | [Paper](https://doi.org/10.1109/TCSVT.2025.3601598) / [Code]
 
 
 # 3. RGBT Tracking 2024
